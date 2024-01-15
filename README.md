@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=clean-kim&fontSize=90)
 <br>
 <br>
-<h6><a href="https://nettle-bite-507.notion.site/Kim-Chae-Lynn-0a9c65fee8c04e42a06c42321ee756af"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a></h6>
 <h6>Email 👉🏻 kimlin8798@naver.com</h6>
 <br>
 <h1>🛠Skills</h1>
